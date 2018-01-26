@@ -11,7 +11,7 @@ const CONFIG = {
     },
     ui: {
         ssl: false,
-        host: '10.0.2.15', // Set this to the IP of the machine that will run Gekko
+        host: '127.0.0.1', // Set this to the IP of the machine that will run Gekko
         port: 3000,
         path: '/'
     },
